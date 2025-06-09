@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import AskAI from "../utils/AskAI";
+import AskAI from "../utils/AskAI.js";
 
 
 export default function ChatBox() {

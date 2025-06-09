@@ -1,4 +1,5 @@
 import React from 'react'
+import AskAI from './utils/AskAI.js'
 import NavBar from './Components/NavBar.jsx'
 import Home from './Pages/Home.jsx'
 import ChatBox from './Pages/ChatBox.jsx'
